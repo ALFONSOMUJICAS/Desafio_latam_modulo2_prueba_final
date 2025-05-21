@@ -2,4 +2,4 @@
 
 Aquí están los enlaces de la prueba:
 
-- [Repositorio 1 (actual):Media Queries(GitHub Page) ](https://alfonsomujicas.github.io/Desafio_latam_modulo2_prueba_final/)
+- [Repositorio 1 (actual):Media Queries(Prueba Finalg) ](https://alfonsomujicas.github.io/Desafio_latam_modulo2_prueba_final/)
